@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1234567,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 1234567,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac turpis egestas integer eget aliquet nibh praesent. Faucibus vitae aliquet nec ullamcorper sit amet risus. Cursus vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Nascetur ridiculus mus mauris vitae ultricies leo integer. Eu mi bibendum neque egestas congue quisque egestas diam. Commodo quis imperdiet massa tincidunt. Pellentesque eu tincidunt tortor aliquam. Etiam tempor orci eu lobortis. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi.",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 3213,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 1234567,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 98765,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 1234567,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249",
+      "https://cataas.com/cat?width=317&height=249",
+      "https://cataas.com/cat?width=317&height=249",
+      "https://cataas.com/cat?width=317&height=249",
+      "https://cataas.com/cat?width=317&height=249",
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 234,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 1234567,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 4352,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 1234567,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 43,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 1234567,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 12,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 1234567,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 567,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 1234567,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 124124412,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 1234567,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 132132,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 1234567,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 177777,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 20020,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249",
+      "https://cataas.com/cat?width=317&height=249",
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 55700038,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 78765,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  },
+  {
+    "id": 100097654332,
+    "publishDate": 1234567,
+    "publishDateString": "08:46, сегодня",
+    "ownerId": 1234567,
+    "ownerLogin": "MyOwner",
+    "bulletinSubject": "Заголовок объявления",
+    "bulletinText": "Текст объявления ...",
+    "bulletinImages": [
+      "https://cataas.com/cat?width=317&height=249"
+    ]
+  }
+]
